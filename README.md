@@ -1,2 +1,2 @@
-# Norwich
-Norwich materials
+# Cyverse training
+Cyverse training materials
